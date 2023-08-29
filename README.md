@@ -1,4 +1,29 @@
-# Task01
+<h1 align="center"> Angular - Task 01 </h1>
+
+<p align="center">
+  Criação de uma aplicação com rotas distintas e utilizando o Material Angular<br/>
+</p>
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-sobre-o-projeto">Sobre o Projeto</a>&nbsp;&nbsp;&nbsp;
+</p>
+<img src='/src/assets/aplicacao.png' />
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- TypeScript;
+- SCSS;
+- Angular;
+- Material Angular;
+
+## 💻 Sobre o Projeto
+
+A aplicação concitem em um site que fala sobre Hogwarts e suas casas, com cada casa representando uma rota diferente e sendo redirecionadas ao clicar nos respectivos botões.
+
+----
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
 
